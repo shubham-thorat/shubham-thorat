@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="3px"> Hi there, I'm Shubham
+##  Hi there, I'm Shubham 👋
 
 [![Linkedin : Shubham](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thorat-shubham)](https://www.linkedin.com/in/thorat-shubham/)
 [![Instagram Badge](https://img.shields.io/badge/-shubham.thorat_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shubham.thorat_/)](https://instagram.com/shubham.thorat_)
